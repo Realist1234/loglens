@@ -31,6 +31,8 @@ src-tauri/target
 
 # Claude Code
 .claude
+CLAUDE.md
+SPEC.md
 
 # User settings (contains API keys)
 settings.json

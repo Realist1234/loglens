@@ -35,16 +35,6 @@ Developers and DevOps engineers waste hours scrolling through massive log files 
 | **6 themes** | Darcula, IntelliJ Light, High Contrast, Monokai, Solarized Dark, Nord |
 | **Keyboard shortcuts** | `Ctrl+O` open, `Ctrl+F` search, `T` tail, `Ctrl+Scroll` zoom |
 
-### Screenshots
-
-| Drop Zone | Log Viewer |
-|-----------|------------|
-| ![Drop Zone](screenshots/01-dropzone.png) | ![Log Viewer](screenshots/02-log-viewer.png) |
-
-| Settings & Themes | AI Analysis |
-|-------------------|-------------|
-| ![Settings](screenshots/03-settings.png) | ![AI Sidebar](screenshots/04-ai-sidebar.png) |
-
 ### Quick Start
 
 #### Prerequisites
@@ -128,16 +118,6 @@ Open Settings (`Ctrl+,`) to configure:
 | **Tail 跟踪** | 实时监听文件变化，自动追加新日志 |
 | **6 款主题** | Darcula、IntelliJ Light、高对比度、Monokai、Solarized、Nord |
 | **快捷键** | `Ctrl+O` 打开、`Ctrl+F` 搜索、`T` Tail、`Ctrl+滚轮` 缩放 |
-
-### 界面截图
-
-| 落地区域 | 日志查看器 |
-|----------|------------|
-| ![落地区域](screenshots/01-dropzone.png) | ![日志查看器](screenshots/02-log-viewer.png) |
-
-| 设置 & 主题 | AI 分析 |
-|-------------|---------|
-| ![设置](screenshots/03-settings.png) | ![AI 侧边栏](screenshots/04-ai-sidebar.png) |
 
 ### 快速开始
 

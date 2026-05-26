@@ -36,3 +36,6 @@ SPEC.md
 
 # User settings (contains API keys)
 settings.json
+
+# Test sample files
+test-sample.log
